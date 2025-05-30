@@ -4,14 +4,16 @@ Este repositório serve como índice dos meus projetos organizados por curso e c
 
 ## 🔹 Índice
 
-- [✅ Curso Analista de QA - TripleTen](#curso-analista-de-qa---tripleten)
+- [✅ Curso Analista de QA - TripleTen](#curso-analista-de-qa-tripleten)
 - [🚀 LaunchCode Web Development Course](#launchcode-web-development-course)
 - [💻 Formação Tecnologia DNC](#formacao-tecnologia-dnc)
 - [🗂️ Projetos Pessoais](#projetos-pessoais)
 
 ---
+<br>
 
-## ✅ Curso Analista de QA - TripleTen
+
+## ✅ Curso Analista de QA - TripleTen <a name="curso-analista-de-qa-tripleten"></a>
 
 Tecnologias usadas: Python, Selenium, Postman, JIRA, SQL, Testes Manuais
 
