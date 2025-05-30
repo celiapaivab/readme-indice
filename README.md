@@ -29,7 +29,7 @@ Tecnologias usadas: Python, Selenium, Postman, JIRA, SQL, Testes Manuais
 
 ---
 
-## 🚀 LaunchCode Web Development Course
+## 🚀 LaunchCode Web Development Course <a name="launchcode-web-development-course"></a>
 
 Tecnologias usadas: JavaScript, React, Java, Spring Boot, HTML, CSS
 
@@ -60,7 +60,7 @@ Tecnologias usadas: JavaScript, React, Java, Spring Boot, HTML, CSS
 
 ---
 
-## 💻 Formação Tecnologia DNC
+## 💻 Formação Tecnologia DNC <a name="formacao-tecnologia-dnc"></a>
 
 Tecnologias usadas: HTML, CSS, JavaScript, React
 
@@ -73,7 +73,7 @@ Tecnologias usadas: HTML, CSS, JavaScript, React
 
 ---
 
-## 🗂️ Projetos Pessoais
+## 🗂️ Projetos Pessoais <a name="projetos-pessoais"></a>
 
 - [todo-list](https://github.com/celiapaivab/todo-list)
 - [color-picker](https://github.com/celiapaivab/color-picker)
@@ -81,5 +81,4 @@ Tecnologias usadas: HTML, CSS, JavaScript, React
 - [personal-portfolio](https://github.com/celiapaivab/personal-portfolio)
 - [portfolio](https://github.com/celiapaivab/portfolio)
 
-🔗 Use o [índice](#🔹-índice) acima para navegar rapidamente entre os projetos de cada curso ou categoria.
 
