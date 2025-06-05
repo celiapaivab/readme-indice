@@ -78,7 +78,7 @@ Tecnologias usadas: HTML, CSS, JavaScript, React
 - [todo-list](https://github.com/celiapaivab/todo-list)
 - [color-picker](https://github.com/celiapaivab/color-picker)
 - [digital-clock](https://github.com/celiapaivab/digital-clock)
-- [personal-portfolio](https://github.com/celiapaivab/personal-portfolio)
-- [portfolio](https://github.com/celiapaivab/portfolio)
+- [personal-portfolio-project](https://github.com/celiapaivab/personal-portfolio-project)
+- [portfolio-project](https://github.com/celiapaivab/portfolio-project)
 
 
