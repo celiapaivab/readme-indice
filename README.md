@@ -1,22 +1,24 @@
-# 📁 Portfólio de Repositórios
+# 📁 Portfólio de Repositórios | Project Portfolio
 
-Este repositório serve como índice dos meus projetos organizados por curso e categoria.
+🇧🇷 Índice dos meus projetos organizados por curso e categoria.  
+🇺🇸 Index of my projects organized by course and category.
 
-## 🔹 Índice
+## 🔹 Índice | Index
 
 - [✅ Curso Analista de QA - TripleTen](#curso-analista-de-qa-tripleten)
-- [🛠️ Projetos de Prática QA](#projetos-de-pratica-qa)
+- [🤖 Projetos de Prática QA](#projetos-de-pratica-qa)
 - [🚀 LaunchCode Web Development Course](#launchcode-web-development-course)
 - [💻 Formação Tecnologia DNC](#formacao-tecnologia-dnc)
 - [🗂️ Projetos de Prática com React](#projetos-pessoais)
 
 ---
 <br>
+<br>
 
 
 ## ✅ Curso Analista de QA - TripleTen <a name="curso-analista-de-qa-tripleten"></a>
 
-Tecnologias usadas: Python, Selenium, Postman, JIRA, SQL, Testes Manuais
+🛠️ Python, Selenium, Postman, JIRA, SQL, Testes Manuais
 
 - [urban-routes-qa-regression-test](https://github.com/celiapaivab/urban-routes-qa-regression-test) ![Testes Manuais](https://img.shields.io/badge/Testes_Manuais-darkgray?style=flat)
 - [urban-routes-test-design](https://github.com/celiapaivab/urban-routes-test-design) ![Testes Manuais](https://img.shields.io/badge/Testes_Manuais-darkgray?style=flat) ![JIRA](https://img.shields.io/badge/JIRA-blue?style=flat&logo=jira&logoColor=white)
@@ -27,21 +29,23 @@ Tecnologias usadas: Python, Selenium, Postman, JIRA, SQL, Testes Manuais
 - [QA-Brazil_Python_Automation](https://github.com/celiapaivab/QA-Brazil_Python_Automation) ![Python](https://img.shields.io/badge/Python-blue?style=flat&logo=python&logoColor=white) ![Selenium](https://img.shields.io/badge/Selenium-green?style=flat&logo=selenium&logoColor=white)
 - A fazer (projeto final) 🌟
 
----
+<br>
+<br>
 
-## 🛠️ Projetos de Prática QA <a name="projetos-de-pratica-qa"></a>
+## 🤖 Projetos de Prática QA | QA Practice Projects <a name="projetos-de-pratica-qa"></a>
 
-Tecnologias usadas: Selenium, Python, Testes Manuais
+🛠️ Selenium, Python, Testes Manuais
 
 - [qa-formulario-selenium-demoqa](https://github.com/celiapaivab/qa-formulario-selenium-demoqa) ![Python](https://img.shields.io/badge/Python-blue?style=flat&logo=python&logoColor=white) ![Selenium](https://img.shields.io/badge/Selenium-green?style=flat&logo=selenium&logoColor=white)
 - [qa-login-selenium-internet](https://github.com/celiapaivab/qa-login-selenium-internet) ![Python](https://img.shields.io/badge/Python-blue?style=flat&logo=python&logoColor=white) ![Selenium](https://img.shields.io/badge/Selenium-green?style=flat&logo=selenium&logoColor=white)
 - [qa-orangehrm-crud](https://github.com/celiapaivab/qa-orangehrm-crud) ![Python](https://img.shields.io/badge/Python-blue?style=flat&logo=python&logoColor=white) ![Selenium](https://img.shields.io/badge/Selenium-green?style=flat&logo=selenium&logoColor=white)
 
----
+<br>
+<br>
 
 ## 🚀 LaunchCode Web Development Course <a name="launchcode-web-development-course"></a>
 
-Tecnologias usadas: JavaScript, React, Java, Spring Boot, HTML, CSS
+🛠️ JavaScript, React, Java, Spring Boot, HTML, CSS
 
 - [js-hello-world](https://github.com/celiapaivab/js-hello-world)
 - [assignment0-javascript](https://github.com/celiapaivab/assignment0-javascript)
@@ -68,11 +72,12 @@ Tecnologias usadas: JavaScript, React, Java, Spring Boot, HTML, CSS
 - [techjobs-persistent-java-graded-17](https://github.com/celiapaivab/techjobs-persistent-java-graded-17)
 - [wild-encounters-capstone](https://github.com/celiapaivab/wild-encounters-capstone) 🌟
 
----
+<br>
+<br>
 
 ## 💻 Formação Tecnologia DNC <a name="formacao-tecnologia-dnc"></a>
 
-Tecnologias usadas: HTML, CSS, JavaScript, React
+🛠️ Tecnologias usadas: HTML, CSS, JavaScript, React
 
 - [projetoteste](https://github.com/celiapaivab/projetoteste)
 - [bootcamp-dnc](https://github.com/celiapaivab/bootcamp-dnc)
@@ -82,9 +87,10 @@ Tecnologias usadas: HTML, CSS, JavaScript, React
 - [DNC_ByeCar](https://github.com/celiapaivab/DNC_ByeCar)
 - [dnc-arq-celia](https://github.com/celiapaivab/dnc-arq-celia)
 
----
+<br>
+<br>
 
-## 🗂️ Projetos de Prática com React <a name="projetos-pessoais"></a>
+## 🗂️ Projetos de Prática com React | React Practice Projects <a name="projetos-pessoais"></a>
 
 - [todo-list](https://github.com/celiapaivab/todo-list)
 - [color-picker](https://github.com/celiapaivab/color-picker)
