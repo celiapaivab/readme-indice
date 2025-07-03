@@ -26,6 +26,8 @@
 - [urban-grocers-api-tests](https://github.com/celiapaivab/urban-grocers-api-tests) ![Postman](https://img.shields.io/badge/Postman-orange?style=flat&logo=postman&logoColor=white) ![JIRA](https://img.shields.io/badge/JIRA-blue?style=flat&logo=jira&logoColor=white)
 - [urban-lunch-mobile-qa](https://github.com/celiapaivab/urban-lunch-mobile-qa) ![Testes Manuais](https://img.shields.io/badge/Testes_Manuais-darkgray?style=flat) ![Android Studio](https://img.shields.io/badge/Android_Studio-green?style=flat)
 - [taxi-app-logs-db-qa](https://github.com/celiapaivab/taxi-app-logs-db-qa) ![SQL](https://img.shields.io/badge/SQL-blue?style=flat) ![Testes Manuais](https://img.shields.io/badge/Testes_Manuais-darkgray?style=flat)
+- [QA-Brazil_S8-Tasks](https://github.com/celiapaivab/QA-Brazil_S8-Tasks) ![Python](https://img.shields.io/badge/Python-blue?style=flat&logo=python&logoColor=white) ![Selenium](https://img.shields.io/badge/Selenium-green?style=flat&logo=selenium&logoColor=white)
+- [QA-Brazil_S8-POM-Tasks](https://github.com/celiapaivab/QA-Brazil_S8-POM-Tasks) ![Python](https://img.shields.io/badge/Python-blue?style=flat&logo=python&logoColor=white) ![Selenium](https://img.shields.io/badge/Selenium-green?style=flat&logo=selenium&logoColor=white)
 - [QA-Brazil_Python_Automation](https://github.com/celiapaivab/QA-Brazil_Python_Automation) ![Python](https://img.shields.io/badge/Python-blue?style=flat&logo=python&logoColor=white) ![Selenium](https://img.shields.io/badge/Selenium-green?style=flat&logo=selenium&logoColor=white)
 - A fazer (projeto final) 🌟
 
