@@ -1,15 +1,7 @@
-# 📁 Portfólio de Repositórios | Project Portfolio
+# 📁 Índice de Repositórios | Index
 
 🇧🇷 Índice dos meus projetos organizados por curso e categoria.  
 🇺🇸 Index of my projects organized by course and category.
-
-## 🔹 Índice | Index
-
-- [✅ Curso Analista de QA - TripleTen](#curso-analista-de-qa-tripleten)
-- [🤖 Projetos de Prática QA](#projetos-de-pratica-qa)
-- [🚀 LaunchCode Web Development Course](#launchcode-web-development-course)
-- [💻 Formação Tecnologia DNC](#formacao-tecnologia-dnc)
-- [🗂️ Projetos de Prática com React](#projetos-pessoais)
 
 ---
 <br>
@@ -28,8 +20,9 @@
 - [taxi-app-logs-db-qa](https://github.com/celiapaivab/taxi-app-logs-db-qa) ![SQL](https://img.shields.io/badge/SQL-blue?style=flat) ![Testes Manuais](https://img.shields.io/badge/Testes_Manuais-darkgray?style=flat)
 - [QA-Brazil_S8-Tasks](https://github.com/celiapaivab/QA-Brazil_S8-Tasks) ![Python](https://img.shields.io/badge/Python-blue?style=flat&logo=python&logoColor=white) ![Selenium](https://img.shields.io/badge/Selenium-green?style=flat&logo=selenium&logoColor=white)
 - [QA-Brazil_S8-POM-Tasks](https://github.com/celiapaivab/QA-Brazil_S8-POM-Tasks) ![Python](https://img.shields.io/badge/Python-blue?style=flat&logo=python&logoColor=white) ![Selenium](https://img.shields.io/badge/Selenium-green?style=flat&logo=selenium&logoColor=white)
-- [QA-Brazil_Python_Automation](https://github.com/celiapaivab/QA-Brazil_Python_Automation) ![Python](https://img.shields.io/badge/Python-blue?style=flat&logo=python&logoColor=white) ![Selenium](https://img.shields.io/badge/Selenium-green?style=flat&logo=selenium&logoColor=white)
-- A fazer (projeto final) 🌟
+- [QA-Brazil_Python_Automation](https://github.com/celiapaivab/QA-Brazil_Python_Automation) 🌟 ![Python](https://img.shields.io/badge/Python-blue?style=flat&logo=python&logoColor=white) ![Selenium](https://img.shields.io/badge/Selenium-green?style=flat&logo=selenium&logoColor=white)
+- [urban-scooter-final-project](https://github.com/celiapaivab/urban-scooter-final-project) 🌟 ![Postman](https://img.shields.io/badge/Postman-orange?style=flat&logo=postman&logoColor=white) ![Testes Manuais](https://img.shields.io/badge/Testes_Manuais-darkgray?style=flat)
+
 
 <br>
 <br>
@@ -41,6 +34,7 @@
 - [qa-formulario-selenium-demoqa](https://github.com/celiapaivab/qa-formulario-selenium-demoqa) ![Python](https://img.shields.io/badge/Python-blue?style=flat&logo=python&logoColor=white) ![Selenium](https://img.shields.io/badge/Selenium-green?style=flat&logo=selenium&logoColor=white)
 - [qa-login-selenium-internet](https://github.com/celiapaivab/qa-login-selenium-internet) ![Python](https://img.shields.io/badge/Python-blue?style=flat&logo=python&logoColor=white) ![Selenium](https://img.shields.io/badge/Selenium-green?style=flat&logo=selenium&logoColor=white)
 - [qa-orangehrm-crud](https://github.com/celiapaivab/qa-orangehrm-crud) ![Python](https://img.shields.io/badge/Python-blue?style=flat&logo=python&logoColor=white) ![Selenium](https://img.shields.io/badge/Selenium-green?style=flat&logo=selenium&logoColor=white)
+- [python-selenium-project](https://github.com/celiapaivab/python-selenium-project) ![Python](https://img.shields.io/badge/Python-blue?style=flat&logo=python&logoColor=white) ![Selenium](https://img.shields.io/badge/Selenium-green?style=flat&logo=selenium&logoColor=white)
 
 <br>
 <br>
