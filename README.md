@@ -1,35 +1,33 @@
-# 📁 Índice de Repositórios | Index
+# 📁 Repository Index
 
-🇧🇷 Índice dos meus projetos organizados por curso e categoria.  
-🇺🇸 Index of my projects organized by course and category.
+Index of my projects organized by course and category.
 
 ---
 <br>
 <br>
 
 
-## ✅ Curso Analista de QA - TripleTen <a name="curso-analista-de-qa-tripleten"></a>
+## ✅ QA Analyst - TripleTen
 
-🛠️ Python, Selenium, Postman, JIRA, SQL, Testes Manuais
+🛠️ Python, Selenium, Postman, JIRA, SQL, Manual Testing
 
-- [urban-routes-qa-regression-test](https://github.com/celiapaivab/urban-routes-qa-regression-test) ![Testes Manuais](https://img.shields.io/badge/Testes_Manuais-darkgray?style=flat)
-- [urban-routes-test-design](https://github.com/celiapaivab/urban-routes-test-design) ![Testes Manuais](https://img.shields.io/badge/Testes_Manuais-darkgray?style=flat) ![JIRA](https://img.shields.io/badge/JIRA-blue?style=flat&logo=jira&logoColor=white)
-- [urban-routes-carsharing-tests](https://github.com/celiapaivab/urban-routes-carsharing-tests) ![Testes Manuais](https://img.shields.io/badge/Testes_Manuais-darkgray?style=flat) ![JIRA](https://img.shields.io/badge/JIRA-blue?style=flat&logo=jira&logoColor=white)
+- [urban-routes-qa-regression-test](https://github.com/celiapaivab/urban-routes-qa-regression-test) ![Manual Testing](https://img.shields.io/badge/Manual_Testing-darkgray?style=flat)
+- [urban-routes-test-design](https://github.com/celiapaivab/urban-routes-test-design) ![Manual Testing](https://img.shields.io/badge/Manual_Testing-darkgray?style=flat) ![JIRA](https://img.shields.io/badge/JIRA-blue?style=flat&logo=jira&logoColor=white)
+- [urban-routes-carsharing-tests](https://github.com/celiapaivab/urban-routes-carsharing-tests) ![Manual Testing](https://img.shields.io/badge/Manual_Testing-darkgray?style=flat) ![JIRA](https://img.shields.io/badge/JIRA-blue?style=flat&logo=jira&logoColor=white)
 - [urban-grocers-api-tests](https://github.com/celiapaivab/urban-grocers-api-tests) ![Postman](https://img.shields.io/badge/Postman-orange?style=flat&logo=postman&logoColor=white) ![JIRA](https://img.shields.io/badge/JIRA-blue?style=flat&logo=jira&logoColor=white)
-- [urban-lunch-mobile-qa](https://github.com/celiapaivab/urban-lunch-mobile-qa) ![Testes Manuais](https://img.shields.io/badge/Testes_Manuais-darkgray?style=flat) ![Android Studio](https://img.shields.io/badge/Android_Studio-green?style=flat)
-- [taxi-app-logs-db-qa](https://github.com/celiapaivab/taxi-app-logs-db-qa) ![SQL](https://img.shields.io/badge/SQL-blue?style=flat) ![Testes Manuais](https://img.shields.io/badge/Testes_Manuais-darkgray?style=flat)
+- [urban-lunch-mobile-qa](https://github.com/celiapaivab/urban-lunch-mobile-qa) ![Manual Testing](https://img.shields.io/badge/Manual_Testing-darkgray?style=flat) ![Android Studio](https://img.shields.io/badge/Android_Studio-green?style=flat)
+- [taxi-app-logs-db-qa](https://github.com/celiapaivab/taxi-app-logs-db-qa) ![SQL](https://img.shields.io/badge/SQL-blue?style=flat) ![Manual Testing](https://img.shields.io/badge/Manual_Testing-darkgray?style=flat)
 - [QA-Brazil_S8-Tasks](https://github.com/celiapaivab/QA-Brazil_S8-Tasks) ![Python](https://img.shields.io/badge/Python-blue?style=flat&logo=python&logoColor=white) ![Selenium](https://img.shields.io/badge/Selenium-green?style=flat&logo=selenium&logoColor=white)
 - [QA-Brazil_S8-POM-Tasks](https://github.com/celiapaivab/QA-Brazil_S8-POM-Tasks) ![Python](https://img.shields.io/badge/Python-blue?style=flat&logo=python&logoColor=white) ![Selenium](https://img.shields.io/badge/Selenium-green?style=flat&logo=selenium&logoColor=white)
 - [QA-Brazil_Python_Automation](https://github.com/celiapaivab/QA-Brazil_Python_Automation) 🌟 ![Python](https://img.shields.io/badge/Python-blue?style=flat&logo=python&logoColor=white) ![Selenium](https://img.shields.io/badge/Selenium-green?style=flat&logo=selenium&logoColor=white)
-- [urban-scooter-final-project](https://github.com/celiapaivab/urban-scooter-final-project) 🌟 ![Postman](https://img.shields.io/badge/Postman-orange?style=flat&logo=postman&logoColor=white) ![Testes Manuais](https://img.shields.io/badge/Testes_Manuais-darkgray?style=flat)
-
+- [urban-scooter-final-project](https://github.com/celiapaivab/urban-scooter-final-project) 🌟 ![Postman](https://img.shields.io/badge/Postman-orange?style=flat&logo=postman&logoColor=white) ![Manual Testing](https://img.shields.io/badge/Manual_Testing-darkgray?style=flat)
 
 <br>
 <br>
 
-## 🤖 Projetos de Prática QA | QA Practice Projects <a name="projetos-de-pratica-qa"></a>
+## 🤖 QA Practice Projects
 
-🛠️ Selenium, Python, Testes Manuais
+🛠️ Selenium, Python, Automated Testing
 
 - [qa-formulario-selenium-demoqa](https://github.com/celiapaivab/qa-formulario-selenium-demoqa) ![Python](https://img.shields.io/badge/Python-blue?style=flat&logo=python&logoColor=white) ![Selenium](https://img.shields.io/badge/Selenium-green?style=flat&logo=selenium&logoColor=white)
 - [qa-login-selenium-internet](https://github.com/celiapaivab/qa-login-selenium-internet) ![Python](https://img.shields.io/badge/Python-blue?style=flat&logo=python&logoColor=white) ![Selenium](https://img.shields.io/badge/Selenium-green?style=flat&logo=selenium&logoColor=white)
@@ -39,7 +37,7 @@
 <br>
 <br>
 
-## 🚀 LaunchCode Web Development Course <a name="launchcode-web-development-course"></a>
+## 🚀 LaunchCode Web Development
 
 🛠️ JavaScript, React, Java, Spring Boot, HTML, CSS
 
@@ -71,9 +69,9 @@
 <br>
 <br>
 
-## 💻 Formação Tecnologia DNC <a name="formacao-tecnologia-dnc"></a>
+## 💻 DNC Technology
 
-🛠️ Tecnologias usadas: HTML, CSS, JavaScript, React
+🛠️ HTML, CSS, JavaScript, React
 
 - [projetoteste](https://github.com/celiapaivab/projetoteste)
 - [bootcamp-dnc](https://github.com/celiapaivab/bootcamp-dnc)
@@ -86,7 +84,7 @@
 <br>
 <br>
 
-## 🗂️ Projetos de Prática com React | React Practice Projects <a name="projetos-pessoais"></a>
+## 🗂️ React Practice Projects
 
 - [todo-list](https://github.com/celiapaivab/todo-list)
 - [color-picker](https://github.com/celiapaivab/color-picker)
